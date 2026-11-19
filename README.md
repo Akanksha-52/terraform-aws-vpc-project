@@ -47,7 +47,6 @@ terraform-aws-vpc-project/
 ├── provider.tf
 ├── variables.tf
 ├── outputs.tf
-├── .gitignore
 └── README.md
 
 ## Deployment Steps
